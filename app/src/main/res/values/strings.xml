@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMNewsApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breaking_news_fragment">Breaking News fragment</string>
+    <string name="saved_news_fragment">Saved News fragment</string>
+    <string name="search_news_fragment">Search News fragment</string>
+</resources>
